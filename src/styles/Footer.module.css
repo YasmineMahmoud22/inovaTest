@@ -1,0 +1,11 @@
+.FooterContainer {
+    background-color: #1c1b1b;
+    z-index: 22;
+    position: relative;
+    margin-top: auto;
+    display: block;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    margin-bottom: -10rem;
+  }
+  
